@@ -59,3 +59,9 @@ Enjoy the game in the browser.
 ## Screenshot
 
 ![Screenshot 2024-12-31 182629](https://github.com/user-attachments/assets/3d901c13-1f1e-4082-bccf-fb55ef6956b3)
+
+Sample gameplay in the terminal.
+
+### Web Version
+
+Modern browser-based Tic Tac Toe game.
