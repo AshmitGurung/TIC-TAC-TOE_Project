@@ -54,3 +54,8 @@ Navigate to the web/ directory.
 Open index.html in any modern web browser.
 
 Enjoy the game in the browser.
+
+
+## Screenshot
+
+![Screenshot 2024-12-31 182629](https://github.com/user-attachments/assets/3d901c13-1f1e-4082-bccf-fb55ef6956b3)
