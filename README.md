@@ -5,9 +5,8 @@ Python Console Version: A text-based game playable in the terminal.
 
 Web Version: A browser-based game with a modern user interface.
 
-#Features
-
-*Python Console Version
+# Features
+Python Console Version
 
 Text-based gameplay.
 
